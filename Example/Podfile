@@ -1,0 +1,13 @@
+
+platform :ios, '8.0'
+use_frameworks!
+
+target 'YLT_SafeObject_Example' do
+  pod 'YLT_SafeObject', :path => '../'
+
+  target 'YLT_SafeObject_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

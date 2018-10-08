@@ -1,0 +1,16 @@
+PODS:
+  - YLT_SafeObject (0.0.1)
+
+DEPENDENCIES:
+  - YLT_SafeObject (from `../`)
+
+EXTERNAL SOURCES:
+  YLT_SafeObject:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YLT_SafeObject: 9c6ecad21f7f5303b0dc8ad981c45310e34d8752
+
+PODFILE CHECKSUM: 0d680aa200581a195fc281c87b1d30506c59ffd9
+
+COCOAPODS: 1.5.3
